@@ -1,8 +1,7 @@
 # Emory-Libraries-Web-Developer-Homework
 Homework assignment Emory Library web developer applicants
 ## Instructions
-Create a basic web page of your own design that displays data from this URL:
-http://web.library.emory.edu/using-the-library/visiting-the-library/hours/index.json
+Create a basic web page of your own design that displays data from the hours.json file in this repository.
  
 The display should meet the following requirements:
 * Written using semantic HTML5.
