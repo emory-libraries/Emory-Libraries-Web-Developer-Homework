@@ -1,5 +1,5 @@
 # Emory-Libraries-Web-Developer-Homework
-Homework assignment Emory Library web developer applicants
+Homework assignment for Emory Library web developer applicants
 ## Instructions
 Create a basic web page of your own design that displays data from the hours.json file in this repository.
  
